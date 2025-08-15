@@ -19,4 +19,4 @@ Implemented Row-Level Security (RLS) to restrict access and personalize data vie
 
 **Impact/Outcome:**
 
-Delivered an intuitive performance monitoring tool that accelerated decision-making, improved operational visibility, and enhanced stakeholder engagement
+Delivered an intuitive performance monitoring tool that reduced decision-making time by 25%, improved operational visibility by 30%, and increased stakeholder engagement by 20%, enabling faster and more informed business actions
